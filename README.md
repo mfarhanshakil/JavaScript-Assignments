@@ -1,4 +1,4 @@
-# JavaScropit-Assignments
+# JavaScript-Assignments
  Web & Mobile App Development Course JavaScript Assignments
 
  This Repository Contains Assignment of JavaSCript
